@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_tela_login">TelaLogin</string>
+    <string name="title_activity_tela_redefinir_senha">TelaRedefinirSenha</string>
+    <string name="title_activity_tela_cadastro">TelaCadastro</string>
+</resources>
